@@ -1,0 +1,1 @@
+# bypass-captcha-with-playwright
