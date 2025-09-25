@@ -6,13 +6,13 @@
 
 - [什么是 CAPTCHA？能否绕过？](#什么是-captcha能否绕过)
 - [Playwright 绕过 CAPTCHA：分步教程](#playwright-绕过-captcha分步教程)
-- [第 1 步：初始化 Node.js 项目](#第-1-步初始化-nodejs-项目)
-- [第 2 步：安装 Playwright Extra](#第-2-步安装-playwright-extra)
-- [第 3 步：设置 Playwright 脚本](#第-3-步设置-playwright-脚本)
-- [第 4 步：实现浏览器自动化逻辑](#第-4-步实现浏览器自动化逻辑)
-- [第 5 步：安装 Playwright Stealth 插件](#第-5-步安装-playwright-stealth-插件)
-- [第 6 步：注册 Stealth 设置](#第-6-步注册-stealth-设置)
-- [第 7 步：重复机器人检测测试](#第-7-步重复机器人检测测试)
+  - [第 1 步：初始化 Node.js 项目](#第-1-步初始化-nodejs-项目)
+  - [第 2 步：安装 Playwright Extra](#第-2-步安装-playwright-extra)
+  - [第 3 步：设置 Playwright 脚本](#第-3-步设置-playwright-脚本)
+  - [第 4 步：实现浏览器自动化逻辑](#第-4-步实现浏览器自动化逻辑)
+  - [第 5 步：安装 Playwright Stealth 插件](#第-5-步安装-playwright-stealth-插件)
+  - [第 6 步：注册 Stealth 设置](#第-6-步注册-stealth-设置)
+  - [第 7 步：重复机器人检测测试](#第-7-步重复机器人检测测试)
 - [如果 Playwright 的 CAPTCHA 解决方案无效怎么办？](#如果-playwright-的-captcha-解决方案无效怎么办)
 
 ## 什么是 CAPTCHA？能否绕过？
